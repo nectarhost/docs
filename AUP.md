@@ -1,11 +1,12 @@
+# Nectar AUP
 The following is Nectar's Acceptable Use Policy ('AUP'). By using Nectar's Hosting services ('Services'), you agree to comply with this AUP. You also agree to require your end users to comply with this AUP. Nectar reserves the right to amend this AUP at any time, with or without notice to you. Nectar agrees to post any changes to this AUP on GitHub (located at: https://nectarhost.net/aup) and you agree to periodically review this AUP as modified from time to time. You agree to be bound to this AUP, as modified from time to time, every time you use or access the Services.
 
 Nectar may, at its sole discretion, immediately terminate your access to the Services if your conduct violates (or appears to violate) the AUP. In addition, Nectar may, at its sole discretion, immediately terminate your access to the Services, if any of your end users violate the AUP.
 
-# NO UNLAWFUL OR PROHIBITED USE
+### NO UNLAWFUL OR PROHIBITED USE
 As a condition of your use of the Services, you will not use the Services (nor will you permit an end user to use the Services) for any purpose that is unlawful or otherwise prohibited by this AUP. You may not use the Services (nor will you permit an end user to use the Services) in any manner that could damage, disable, overburden, or otherwise impair any of the Services offered by Nectar, or any services offered by a third party, or interfere with any other party's use and enjoyment of any of our Services. You may not (nor will you permit your end users to) obtain or attempt to obtain any materials or information through any means not intentionally made available through the Services.
 
-# USE OF SERVICES
+### USE OF SERVICES
 The Services are designed to enable you and your end users to communicate with others via the Internet. You agree to use the Services (and to require your users to use the Services) only to post, send and receive messages and material that is proper and, when applicable, related to the particular Service. By way of example, and not as a limitation, you agree that when you (or your end users are) using a Service, you (and your end users) will not:
 
 - Use the Service in connection with unlawful contests, lotteries, or gambling; pyramid schemes, chain letters, junk email, spamming or any duplicative or unsolicited messages (commercial or otherwise).
@@ -33,8 +34,8 @@ Nectar does not control or endorse the content, messages or information found in
 
 In the event any instance uses excessive CPU from activities such as cryptocurrency CPU mining, Nectar reserves the right to limit the CPU available to your instances in order to maintain a consistent level of performance on all our nodes.
 
-# TERMINATION/ACCESS RESTRICTION
+### TERMINATION/ACCESS RESTRICTION
 Nectar has no obligation to monitor the Services. However, Nectar reserves the right to review materials posted to a Service and to remove any materials in its sole discretion. Nectar reserves the right, in its sole discretion, to terminate your access to any or all Services and the related services or any portion thereof at any time, with or without notice, for violating this AUP. Upon termination of the Service, your right to use the Service immediately ceases. Nectar shall have no obligation to maintain any content termination of the Services.
 
-# NO SPAM; DAMAGES
+### NO SPAM; DAMAGES
 Nectar will immediately terminate any account which it believes, in its sole discretion, is transmitting or is otherwise connected with any spam.
