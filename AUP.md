@@ -1,4 +1,6 @@
 # Nectar AUP
+**Updated:** 04/10/2022
+
 The following is Nectar's Acceptable Use Policy ('AUP'). By using Nectar's Hosting services ('Services'), you agree to comply with this AUP. You also agree to require your end users to comply with this AUP. Nectar reserves the right to amend this AUP at any time, with or without notice to you. Nectar agrees to post any changes to this AUP on GitHub (located at: https://nectarhost.net/aup) and you agree to periodically review this AUP as modified from time to time. You agree to be bound to this AUP, as modified from time to time, every time you use or access the Services.
 
 Nectar may, at its sole discretion, immediately terminate your access to the Services if your conduct violates (or appears to violate) the AUP. In addition, Nectar may, at its sole discretion, immediately terminate your access to the Services, if any of your end users violate the AUP.
@@ -39,3 +41,6 @@ Nectar has no obligation to monitor the Services. However, Nectar reserves the r
 
 ### NO SPAM; DAMAGES
 Nectar will immediately terminate any account which it believes, in its sole discretion, is transmitting or is otherwise connected with any spam.
+
+### REPORTING VIOLATIONS
+To report a violation of this policy, please contact us via email at abuse@nectarhost.net
